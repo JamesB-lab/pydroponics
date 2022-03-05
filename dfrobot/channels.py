@@ -1,0 +1,4 @@
+CHANNEL_EC           = 0
+CHANNEL_PH           = 1
+CHANNEL_DISCONNECTED = 2
+CHANNEL_TDS          = 3
